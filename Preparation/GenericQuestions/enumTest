@@ -1,0 +1,8 @@
+package GenericQuestions;
+
+public enum Test{
+       START,
+       RUNNING,
+       WAITING,
+       DEAD;
+}
